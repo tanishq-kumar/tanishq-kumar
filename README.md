@@ -4,7 +4,7 @@
 >
 > Stated without proof; everything below rests on it. &nbsp;→ [tanishq.life](https://tanishq.life)
 
-Founding engineer at [Xyenta](https://xyenta.com), building [xflow](https://xflow.solutions): a governance-first platform that turns governed data and knowledge graphs into living, auditable digital twins of business processes.
+Founding engineer at [Xyenta](https://xyenta.com), building [xflow](https://xflow.solutions), a process context platform.
 
 I work mostly below the UI: APIs and business logic, PostgreSQL, graph databases, parsers and compilers, and MCP tooling for AI agents.
 
